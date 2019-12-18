@@ -3,7 +3,8 @@
     "pages/home/home",
     "pages/category/category",
     "pages/cart/cart",
-    "pages/profile/profile"
+    "pages/profile/profile",
+    "components/w-swiper/w-swiper"
   ],
   "window": {
     "backgroundTextStyle": "light",
